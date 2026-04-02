@@ -82,19 +82,19 @@ Scan duration: 397.18 seconds
 ## Screenshots
 
 ### 1. Nmap Attack Execution
-![Nmap Scan](screenshots/1-nmap-full-syn-scan.png)
+![Nmap Scan](pcap-port-scan-detection/screenshots/1-nmap-full-syn-scan.png)
 
 ### 2. Wireshark Packet Capture
-![Wireshark Capture](screenshots/2-wireshark-capture-running.png)
+![Wireshark Capture](pcap-port-scan-detection/screenshots/2-wireshark-capture-running.png)
 
 ### 3. SYN Packet Pattern
-![SYN Packets](screenshots/3-syn-packets-filter.png)
+![SYN Packets](pcap-port-scan-detection/screenshots/3-syn-packets-filter.png)
 
 ### 4. Attacker Traffic Isolation
-![Filtered Traffic](screenshots/4-attacker-ip-filter.png)
+![Filtered Traffic](pcap-port-scan-detection/screenshots/4-attacker-ip-filter.png)
 
 ### 5. Detection Engine Output
-![Detection Output](screenshots/5-detection-output.png)
+![Detection Output](pcap-port-scan-detection/screenshots/5-detection-output.png)
 
 ---
 
